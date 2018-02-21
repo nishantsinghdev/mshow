@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mshow',
-      version='0.2',
+      version='1.0',
       description='The funniest joke in the world',
       url='https://github.com/nishantsinghdev/mshow',
       author='Nishant Singh',
