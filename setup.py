@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='mshow',
-      version = '6.1',
-      __version__='6.1',
+      version = '7.0',
+      __version__='7.0',
       description='Sample Message Showing Library',
       url='https://github.com/nishantsinghdev/mshow',
       author='Nishant Singh',
