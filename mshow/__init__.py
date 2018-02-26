@@ -1,5 +1,5 @@
 def info():
-    return ("Library By : Nishant Singh\n")
+    print("Library By : Nishant Singh\n")
 
 def show1():
-    return ("Hello Guys !!\n Its a sample fun() for Suprath Technologies.\n")
+    print("Hello Guys !!\n Its a sample fun() for Suprath Technologies.\n")
